@@ -5,11 +5,11 @@ subtitle: "Medical Student • Bioinformatics • Computational Biology"
 
 ::: {.hero}
 
-![Muhammad Suraj Salihu](images/Bioinf.jpg){.profile-photo}
+![Muhammad](images/Bioinf.jpg){.profile-photo}
 
-# Muhammad Suraj Salihu
+#
 
-### Medical student exploring the intersection of medicine, bioinformatics and computational biology.
+### Exploring the intersection of medicine, bioinformatics and computational biology.
 
 I am building my skills in **bioinformatics, Python, Linux, Bash scripting, data analysis and reproducible computational workflows**.
 
