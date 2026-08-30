@@ -5,7 +5,7 @@ subtitle: "Medical Student • Bioinformatics • Computational Biology"
 
 ::: {.hero}
 
-![Muhammad Suraj Salihu](images/me.jpg){.profile-photo}
+![Muhammad Suraj Salihu](images/Bioinf.jpg){.profile-photo}
 
 # Muhammad Suraj Salihu
 

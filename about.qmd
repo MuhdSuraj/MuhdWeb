@@ -4,7 +4,7 @@ title: "About Me"
 
 # About Me
 
-![Muhammad Suraj Salihu](images/me.jpg){width=220px}
+![Muhammad Suraj Salihu](images/Bioinf.jpg){width=220px}
 
 I am a final year medical student developing an interest in **bioinformatics, computational biology and data-driven approaches to medicine**.
 
