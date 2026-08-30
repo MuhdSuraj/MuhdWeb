@@ -1,0 +1,39 @@
+---
+title: "About"
+---
+
+# About Me
+
+## Muhammad Suraj Salihu
+
+I am a medical student at **Bayero University Kano** with a growing interest in **bioinformatics, computational biology, and data-driven medicine**.
+
+My interest in bioinformatics comes from wanting to understand how computational approaches can complement clinical medicine and biomedical research. As a medical student, I have seen how much biological and clinical information is generated every day, and I am interested in learning how programming and computational methods can be used to make sense of this information.
+
+### Why I Joined This Course
+
+I joined the **Applied Bioinformatics for Beginners** course at the **Centre for Biotechnology Research (CBR), Bayero University Kano**, because I wanted to move beyond simply being interested in bioinformatics and actually develop practical skills.
+
+I am particularly interested in learning how to work with biological sequences, analyse genomic data, use Linux and Python, and eventually apply these skills to real biomedical and public-health problems.
+
+I am grateful to **Dr. Popoola**, our tutor, for guiding us through the course and introducing us to the practical side of bioinformatics.
+
+### My Goals
+
+Through this course, I hope to:
+
+* Make Mama proud
+* Become more comfortable using the Linux command line.
+* Improve my Python and data-analysis skills.
+* Learn how to analyse and interpret biological sequence data.
+* Build a portfolio that documents my progress and projects.
+
+### My Progress
+
+This website is also my **learning journal**.
+
+Rather than treating the course as something that ends after eight weeks, I want to use this space to document what I learn, the projects I work on, the problems I encounter, and how my skills develop over time.
+
+I will be adding new projects, notes, analyses, and reflections as I continue learning.
+
+**This is the beginning of my journey into bioinformatics.**
