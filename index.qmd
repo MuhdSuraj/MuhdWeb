@@ -17,7 +17,9 @@ My goal is to use computational approaches to investigate biological and clinica
 
 [Explore My Projects](projects.qmd){.btn .btn-primary}
 
-[View My GitHub](https://github.com/MuhammadSurajDuwa){.btn .btn-outline-secondary}
+[View My GitHub](https://github.com/MuhdSuraj){.btn .btn-outline-secondary}
+
+[Connect on LinkedIn](https://linkedin.com/in/muhammad-suraj-845b51184){.btn .btn-outline-secondary}
 
 :::
 
