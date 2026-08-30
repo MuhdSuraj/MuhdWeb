@@ -1,39 +1,33 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
 # About Me
 
-## Muhammad Suraj Salihu
+![Muhammad Suraj Salihu](images/me.jpg){width=220px}
 
-I am a medical student at **Bayero University Kano** with a growing interest in **bioinformatics, computational biology, and data-driven medicine**.
+I am a final year medical student developing an interest in **bioinformatics, computational biology and data-driven approaches to medicine**.
 
-My interest in bioinformatics comes from wanting to understand how computational approaches can complement clinical medicine and biomedical research. As a medical student, I have seen how much biological and clinical information is generated every day, and I am interested in learning how programming and computational methods can be used to make sense of this information.
+My background in medicine and love for computers right before med school took over has made me interested in questions that sit at the intersection of biology, disease and computation.
 
-### Why I Joined This Course
+## Why Bioinformatics?
 
-I joined the **Applied Bioinformatics for Beginners** course at the **Centre for Biotechnology Research (CBR), Bayero University Kano**, because I wanted to move beyond simply being interested in bioinformatics and actually develop practical skills.
+First my fascination by just how much a computer can do plus my love for medicine.
 
-I am particularly interested in learning how to work with biological sequences, analyse genomic data, use Linux and Python, and eventually apply these skills to real biomedical and public-health problems.
+My current focus is on building a strong foundation in:
 
-I am grateful to **Dr. Popoola**, our tutor, for guiding us through the course and introducing us to the practical side of bioinformatics.
+- Python
+- Linux
+- Bash scripting
+- Sequence analysis
+- Data visualization
 
-### My Goals
+## My Approach
 
-Through this course, I hope to:
+I am still very early in this journey, so this website is intentionally also a record of my learning process.
 
-* Make Mama proud
-* Become more comfortable using the Linux command line.
-* Improve my Python and data-analysis skills.
-* Learn how to analyse and interpret biological sequence data.
-* Build a portfolio that documents my progress and projects.
+I want to document not only successful projects, but also the problems I encounter and how I solve them. And the ones that straight up defeated me, of course
 
-### My Progress
+---
 
-This website is also my **learning journal**.
-
-Rather than treating the course as something that ends after eight weeks, I want to use this space to document what I learn, the projects I work on, the problems I encounter, and how my skills develop over time.
-
-I will be adding new projects, notes, analyses, and reflections as I continue learning.
-
-**This is the beginning of my journey into bioinformatics.**
+**Last updated:** August 2026

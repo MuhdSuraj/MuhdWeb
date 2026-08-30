@@ -1,0 +1,78 @@
+---
+title: "Learning Journey"
+---
+
+# My Learning Journey
+
+This page documents my progression through bioinformatics, programming and computational science.
+
+---
+
+## 🧬 Bioinformatics
+
+I am developing practical skills in:
+
+- Biological sequence analysis
+- FASTA files
+- Biopython
+- Sequence alignment
+- Conservation analysis
+- Biological databases
+- Data visualization
+- Reproducible workflows
+
+---
+
+## 🐍 Python
+
+I am learning to use Python for:
+
+- Data manipulation
+- Automation
+- Biological sequence analysis
+
+My current goal is to become comfortable enough with Python that I can solve biological problems rather than simply follow tutorials.
+
+---
+
+##  Linux & Bash
+
+I am learning to work comfortably from the command line.
+
+Topics include:
+
+- File and directory management
+- Pipes and redirection
+- `ls`
+- `cd`
+- `cat`
+- `mkdir`
+- Bash scripting (much faster than writing the same commands over and over again)
+- Fetching and processing data from databases via the command line
+
+---
+
+##  Git & GitHub
+
+I am using GitHub to:
+
+- Track my work
+- Practice version control
+- Document projects
+- Maintain reproducible workflows
+- Build a public portfolio
+
+---
+
+##  30 Days of Python
+
+I am using the challenge to strengthen my Python fundamentals.
+
+Each completed exercise will be pushed to GitHub as I progress.
+
+---
+
+## Learning Philosophy
+
+
+**Learn → Build → make mistakes → Document → Share → Improve**

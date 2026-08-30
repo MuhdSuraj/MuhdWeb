@@ -1,0 +1,40 @@
+---
+title: "Projects"
+---
+
+# My Bioinformatics Projects
+
+This page contains projects I have worked on while learning bioinformatics.
+
+---
+
+##  FLT3-Conserve
+
+**Sequence conservation analysis of FLT3 across species.**
+
+FLT3-Conserve is a bioinformatics project developed to practice biological sequence analysis, Python programming, data handling and visualization.
+
+### Skills demonstrated
+
+- Python
+- Biopython
+- Sequence analysis
+- Multiple-species comparison
+- Data visualization
+- Git & GitHub
+
+**Status:**  Slow down, men at work.
+
+---
+
+## More Projects Coming
+
+As I continue learning bioinformatics, I will add more projects involving:
+
+- Genomic data analysis
+- Sequence analysis
+- Phylogenetics
+- Data visualization
+- Bash/Linux workflows
+- Reproducible bioinformatics pipelines
+- Machine learning for biological data

@@ -1,23 +1,135 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page contains projects I have worked on while learning bioinformatics.\n\n\n\nSequence conservation analysis of FLT3 across species.\nFLT3-Conserve is a bioinformatics project developed to practice biological sequence analysis, Python programming, data handling and visualization.\n\n\n\nPython\nBiopython\nSequence analysis\nMultiple-species comparison\nData visualization\nGit & GitHub\n\nStatus: Slow down, men at work.\n\n\n\n\n\nAs I continue learning bioinformatics, I will add more projects involving:\n\nGenomic data analysis\nSequence analysis\nPhylogenetics\nData visualization\nBash/Linux workflows\nReproducible bioinformatics pipelines\nMachine learning for biological data"
+  },
+  {
+    "objectID": "projects.html#flt3-conserve",
+    "href": "projects.html#flt3-conserve",
+    "title": "Projects",
+    "section": "",
+    "text": "Sequence conservation analysis of FLT3 across species.\nFLT3-Conserve is a bioinformatics project developed to practice biological sequence analysis, Python programming, data handling and visualization.\n\n\n\nPython\nBiopython\nSequence analysis\nMultiple-species comparison\nData visualization\nGit & GitHub\n\nStatus: Slow down, men at work."
+  },
+  {
+    "objectID": "projects.html#more-projects-coming",
+    "href": "projects.html#more-projects-coming",
+    "title": "Projects",
+    "section": "",
+    "text": "As I continue learning bioinformatics, I will add more projects involving:\n\nGenomic data analysis\nSequence analysis\nPhylogenetics\nData visualization\nBash/Linux workflows\nReproducible bioinformatics pipelines\nMachine learning for biological data"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Muhammad Suraj Salihu",
     "section": "",
-    "text": "About Me\n\n\n\nMuhammad Suraj Salihu\n\n\nAlhamdulillah for my first (test) Quarto website.\n\nMy Progress\nThis website is also my learning journal.\nRather than treating the course as something that ends after twelve or so weeks, I want to use this space to document what I learn, the projects I work on, the problems I encounter, and how my skills develop over time.\nI will be adding new projects, notes, analyses, and reflections as I continue learning.\nThis is the beginning of my journey into bioinformatics.\nOn this date 30th August 2026\nThank you Dr Popoola. Thank you CBR. Cheers!"
+    "text": "Muhammad Suraj Salihu\n\n\n\n\n\n\nI am building my skills in bioinformatics, Python, Linux, Bash scripting, data analysis and reproducible computational workflows.\nMy goal is to use computational approaches to investigate biological and clinical questions.\nExplore My Projects\nView My GitHub"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Muhammad Suraj Salihu",
+    "section": "Welcome",
+    "text": "Welcome\nThis website is my bioinformatics portfolio and learning journal.\nI am documenting the projects I build, the tools I learn, the problems I encounter and the progress I make along the way.\nRather than allowing a course to end when the lectures finish, I want to continue putting what I learn into practice."
+  },
+  {
+    "objectID": "index.html#what-im-learning",
+    "href": "index.html#what-im-learning",
+    "title": "Muhammad Suraj Salihu",
+    "section": "What I’m Learning",
+    "text": "What I’m Learning\n\n\n🧬 Bioinformatics\nSequence analysis, biological databases, conservation analysis and computational biology workflows.\n\n\nPython\nPython programming for data analysis, automation and bioinformatics.\n\n\nLinux & Bash\nCommand-line tools, shell scripting and reproducible workflows.\n\n\n📊 Data Analysis\nWorking with biological datasets, visualization and exploratory analysis.\n\n\nGit & GitHub\nVersion control, project organization and collaborative development.\n\n\n📖 Quarto\nCreating reproducible reports, documentation and computational websites."
+  },
+  {
+    "objectID": "index.html#featured-project.",
+    "href": "index.html#featured-project.",
+    "title": "Muhammad Suraj Salihu",
+    "section": "Featured Project.",
+    "text": "Featured Project.\n\nFLT3-Conserve\nA bioinformatics project to explore sequence conservation across species using Python and biological sequence analysis, with a focus on the FLT3 gene. This is a project-based learning journey, but I exlore my research interest through it.\nStatus: In progress"
+  },
+  {
+    "objectID": "index.html#my-learning-philosophy",
+    "href": "index.html#my-learning-philosophy",
+    "title": "Muhammad Suraj Salihu",
+    "section": "My Learning Philosophy",
+    "text": "My Learning Philosophy\n\nLearn it. Build it. Document it. Share it.\n\nEvery new concept becomes more valuable when I actually use it.\nThis website will grow alongside my skills InshaAllah."
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Muhammad Suraj Salihu",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nI am grateful to the Centre for Biotechnology Research (CBR), Bayero University Kano, and the tutors who have encouraged me to keep learning and putting these skills into practice.\nAlhamdulillah for a beginning as fun as this\n30 August 2026"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "I am a medical student at Bayero University Kano with a growing interest in bioinformatics, computational biology, and data-driven medicine.\nMy interest in bioinformatics comes from wanting to understand how computational approaches can complement clinical medicine and biomedical research. As a medical student, I have seen how much biological and clinical information is generated every day, and I am interested in learning how programming and computational methods can be used to make sense of this information.\n\n\nI joined the Applied Bioinformatics for Beginners course at the Centre for Biotechnology Research (CBR), Bayero University Kano, because I wanted to move beyond simply being interested in bioinformatics and actually develop practical skills.\nI am particularly interested in learning how to work with biological sequences, analyse genomic data, use Linux and Python, and eventually apply these skills to real biomedical and public-health problems.\nI am grateful to Dr. Popoola, our tutor, for guiding us through the course and introducing us to the practical side of bioinformatics.\n\n\n\nThrough this course, I hope to:\n\nMake Mama proud\nBecome more comfortable using the Linux command line.\nImprove my Python and data-analysis skills.\nLearn how to analyse and interpret biological sequence data.\nBuild a portfolio that documents my progress and projects.\n\n\n\n\nThis website is also my learning journal.\nRather than treating the course as something that ends after eight weeks, I want to use this space to document what I learn, the projects I work on, the problems I encounter, and how my skills develop over time.\nI will be adding new projects, notes, analyses, and reflections as I continue learning.\nThis is the beginning of my journey into bioinformatics."
+    "text": "Muhammad Suraj Salihu\n\n\nI am a final year medical student developing an interest in bioinformatics, computational biology and data-driven approaches to medicine.\nMy background in medicine and love for computers right before med school took over has made me interested in questions that sit at the intersection of biology, disease and computation.\n\n\nFirst my fascination by just how much a computer can do plus my love for medicine.\nMy current focus is on building a strong foundation in:\n\nPython\nLinux\nBash scripting\nSequence analysis\nData visualization\n\n\n\n\nI am still very early in this journey, so this website is intentionally also a record of my learning process.\nI want to document not only successful projects, but also the problems I encounter and how I solve them. And the ones that straight up defeated me, of course\n\nLast updated: August 2026"
   },
   {
-    "objectID": "about.html#muhammad-suraj-salihu",
-    "href": "about.html#muhammad-suraj-salihu",
-    "title": "About",
+    "objectID": "about.html#why-bioinformatics",
+    "href": "about.html#why-bioinformatics",
+    "title": "About Me",
     "section": "",
-    "text": "I am a medical student at Bayero University Kano with a growing interest in bioinformatics, computational biology, and data-driven medicine.\nMy interest in bioinformatics comes from wanting to understand how computational approaches can complement clinical medicine and biomedical research. As a medical student, I have seen how much biological and clinical information is generated every day, and I am interested in learning how programming and computational methods can be used to make sense of this information.\n\n\nI joined the Applied Bioinformatics for Beginners course at the Centre for Biotechnology Research (CBR), Bayero University Kano, because I wanted to move beyond simply being interested in bioinformatics and actually develop practical skills.\nI am particularly interested in learning how to work with biological sequences, analyse genomic data, use Linux and Python, and eventually apply these skills to real biomedical and public-health problems.\nI am grateful to Dr. Popoola, our tutor, for guiding us through the course and introducing us to the practical side of bioinformatics.\n\n\n\nThrough this course, I hope to:\n\nMake Mama proud\nBecome more comfortable using the Linux command line.\nImprove my Python and data-analysis skills.\nLearn how to analyse and interpret biological sequence data.\nBuild a portfolio that documents my progress and projects.\n\n\n\n\nThis website is also my learning journal.\nRather than treating the course as something that ends after eight weeks, I want to use this space to document what I learn, the projects I work on, the problems I encounter, and how my skills develop over time.\nI will be adding new projects, notes, analyses, and reflections as I continue learning.\nThis is the beginning of my journey into bioinformatics."
+    "text": "First my fascination by just how much a computer can do plus my love for medicine.\nMy current focus is on building a strong foundation in:\n\nPython\nLinux\nBash scripting\nSequence analysis\nData visualization"
+  },
+  {
+    "objectID": "about.html#my-approach",
+    "href": "about.html#my-approach",
+    "title": "About Me",
+    "section": "",
+    "text": "I am still very early in this journey, so this website is intentionally also a record of my learning process.\nI want to document not only successful projects, but also the problems I encounter and how I solve them. And the ones that straight up defeated me, of course\n\nLast updated: August 2026"
+  },
+  {
+    "objectID": "learning.html",
+    "href": "learning.html",
+    "title": "Learning Journey",
+    "section": "",
+    "text": "This page documents my progression through bioinformatics, programming and computational science.\n\n\n\nI am developing practical skills in:\n\nBiological sequence analysis\nFASTA files\nBiopython\nSequence alignment\nConservation analysis\nBiological databases\nData visualization\nReproducible workflows\n\n\n\n\n\nI am learning to use Python for:\n\nData manipulation\nAutomation\nBiological sequence analysis\n\nMy current goal is to become comfortable enough with Python that I can solve biological problems rather than simply follow tutorials.\n\n\n\n\nI am learning to work comfortably from the command line.\nTopics include:\n\nFile and directory management\nPipes and redirection\nls\ncd\ncat\nmkdir\nBash scripting (much faster than writing the same commands over and over again)\nFetching and processing data from databases via the command line\n\n\n\n\n\nI am using GitHub to:\n\nTrack my work\nPractice version control\nDocument projects\nMaintain reproducible workflows\nBuild a public portfolio\n\n\n\n\n\nI am using the challenge to strengthen my Python fundamentals.\nEach completed exercise will be pushed to GitHub as I progress.\n\n\n\n\nLearn → Build → make mistakes → Document → Share → Improve"
+  },
+  {
+    "objectID": "learning.html#bioinformatics",
+    "href": "learning.html#bioinformatics",
+    "title": "Learning Journey",
+    "section": "",
+    "text": "I am developing practical skills in:\n\nBiological sequence analysis\nFASTA files\nBiopython\nSequence alignment\nConservation analysis\nBiological databases\nData visualization\nReproducible workflows"
+  },
+  {
+    "objectID": "learning.html#python",
+    "href": "learning.html#python",
+    "title": "Learning Journey",
+    "section": "",
+    "text": "I am learning to use Python for:\n\nData manipulation\nAutomation\nBiological sequence analysis\n\nMy current goal is to become comfortable enough with Python that I can solve biological problems rather than simply follow tutorials."
+  },
+  {
+    "objectID": "learning.html#linux-bash",
+    "href": "learning.html#linux-bash",
+    "title": "Learning Journey",
+    "section": "",
+    "text": "I am learning to work comfortably from the command line.\nTopics include:\n\nFile and directory management\nPipes and redirection\nls\ncd\ncat\nmkdir\nBash scripting (much faster than writing the same commands over and over again)\nFetching and processing data from databases via the command line"
+  },
+  {
+    "objectID": "learning.html#git-github",
+    "href": "learning.html#git-github",
+    "title": "Learning Journey",
+    "section": "",
+    "text": "I am using GitHub to:\n\nTrack my work\nPractice version control\nDocument projects\nMaintain reproducible workflows\nBuild a public portfolio"
+  },
+  {
+    "objectID": "learning.html#days-of-python",
+    "href": "learning.html#days-of-python",
+    "title": "Learning Journey",
+    "section": "",
+    "text": "I am using the challenge to strengthen my Python fundamentals.\nEach completed exercise will be pushed to GitHub as I progress."
+  },
+  {
+    "objectID": "learning.html#learning-philosophy",
+    "href": "learning.html#learning-philosophy",
+    "title": "Learning Journey",
+    "section": "",
+    "text": "Learn → Build → make mistakes → Document → Share → Improve"
   }
 ]

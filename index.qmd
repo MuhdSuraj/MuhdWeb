@@ -1,24 +1,105 @@
 ---
 title: "Muhammad Suraj Salihu"
+subtitle: "Medical Student • Bioinformatics • Computational Biology"
 ---
 
-# About Me
+::: {.hero}
 
-![Muhammad Suraj Salihu](images/me.jpg){width=250px}
+![Muhammad Suraj Salihu](images/me.jpg){.profile-photo}
 
-Alhamdulillah for my first (test) Quarto website.
+# Muhammad Suraj Salihu
+
+### Medical student exploring the intersection of medicine, bioinformatics and computational biology.
+
+I am building my skills in **bioinformatics, Python, Linux, Bash scripting, data analysis and reproducible computational workflows**.
+
+My goal is to use computational approaches to investigate biological and clinical questions.
+
+[Explore My Projects](projects.qmd){.btn .btn-primary}
+
+[View My GitHub](https://github.com/MuhammadSurajDuwa){.btn .btn-outline-secondary}
+
+:::
+
+---
+
+## Welcome
+
+This website is my **bioinformatics portfolio and learning journal**.
+
+I am documenting the projects I build, the tools I learn, the problems I encounter and the progress I make along the way.
+
+Rather than allowing a course to end when the lectures finish, I want to continue putting what I learn into practice.
+
+---
+
+## What I'm Learning
+
+<div class="skills-grid">
+
+::: {.skill-card}
+### 🧬 Bioinformatics
+
+Sequence analysis, biological databases, conservation analysis and computational biology workflows.
+:::
+
+::: {.skill-card}
+###  Python
+
+Python programming for data analysis, automation and bioinformatics.
+:::
+
+::: {.skill-card}
+###  Linux & Bash
+
+Command-line tools, shell scripting and reproducible workflows.
+:::
+
+::: {.skill-card}
+### 📊 Data Analysis
+
+Working with biological datasets, visualization and exploratory analysis.
+:::
+
+::: {.skill-card}
+###  Git & GitHub
+
+Version control, project organization and collaborative development.
+:::
+
+::: {.skill-card}
+### 📖 Quarto
+
+Creating reproducible reports, documentation and computational websites.
+:::
+
+</div>
+
+---
+
+## Featured Project.
+
+### FLT3-Conserve
+
+A bioinformatics project to explore sequence conservation across species using Python and biological sequence analysis, with a focus on the **FLT3 gene**. This is a project-based learning journey, but I exlore my research interest through it.
+
+**Status:** In progress
 
 
-### My Progress
+## My Learning Philosophy
 
-This website is also my **learning journal**.
+> **Learn it. Build it. Document it. Share it.**
 
-Rather than treating the course as something that ends after twelve or so weeks, I want to use this space to document what I learn, the projects I work on, the problems I encounter, and how my skills develop over time.
+Every new concept becomes more valuable when I actually use it.
 
-I will be adding new projects, notes, analyses, and reflections as I continue learning.
+This website will grow alongside my skills InshaAllah.
 
-**This is the beginning of my journey into bioinformatics.**
+---
 
- On this date 30th August 2026
+## Acknowledgements
 
-Thank you Dr Popoola. Thank you CBR. Cheers!
+I am grateful to the **Centre for Biotechnology Research (CBR), Bayero University Kano**, and the tutors who have encouraged me to keep learning and putting these skills into practice.
+
+**Alhamdulillah for a beginning as fun as this**
+
+*30 August 2026*
