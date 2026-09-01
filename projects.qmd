@@ -2,39 +2,36 @@
 title: "Projects"
 ---
 
-# My Bioinformatics Projects
+# Projects
 
-This page contains projects I have worked on while learning bioinformatics.
+A collection of my bioinformatics, computational biology and programming projects.
 
----
+## 🧬 FLT3-Conserve
 
-##  FLT3-Conserve
+**Status: In Progress**
 
-**Sequence conservation analysis of FLT3 across species.**
+A bioinformatics project exploring sequence conservation across species using Python and biological sequence analysis, with a focus on the **FLT3 gene**. This is the gene that mutates in a significant proportion of acute myeloid leukemia (AML) cases.
 
-FLT3-Conserve is a bioinformatics project developed to practice biological sequence analysis, Python programming, data handling and visualization.
+The project is helping me develop practical skills in sequence analysis, biological databases, Python and reproducible computational workflows.
 
-### Skills demonstrated
+**Focus:** Bioinformatics • Sequence Analysis • Python • Conservation Analysis
 
-- Python
-- Biopython
-- Sequence analysis
-- Multiple-species comparison
-- Data visualization
-- Git & GitHub
-
-**Status:**  Slow down, men at work.
+[View on GitHub](https://github.com/MuhdSuraj){.btn .btn-primary}
 
 ---
 
-## More Projects Coming
+---
 
-As I continue learning bioinformatics, I will add more projects involving:
+## 🔬 Future Projects
 
-- Genomic data analysis
-- Sequence analysis
-- Phylogenetics
-- Data visualization
-- Bash/Linux workflows
-- Reproducible bioinformatics pipelines
-- Machine learning for biological data
+I am currently developing additional projects combining **medicine, bioinformatics, genomics and computational biology**.
+
+Future projects will be documented here with their code, methodology, results and conclusions.
+
+---
+
+## My Project Philosophy
+
+> **Don't just learn the tool. Use it to answer a question.**
+
+Most of the projects I work on will not only help me solve a question, but will also help me develop my computational skills.

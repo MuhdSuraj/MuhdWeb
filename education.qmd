@@ -1,0 +1,39 @@
+---
+title: "Education"
+---
+
+# Education
+
+My academic journey has taken me from foundational education in Kano to medical training at Bayero University Kano, alongside my growing interest in computational biology.
+
+## 🎓 Bayero University Kano
+
+**MBBS — Medicine and Surgery**
+
+Currently pursuing my medical degree at Bayero University Kano.
+
+Alongside my medical training, I am developing skills in **bioinformatics, computational biology, Python, Linux, data analysis and reproducible research**.
+
+---
+
+## 🏫 Musa Iliasu College, Kano
+
+**Secondary Education**
+
+My secondary-school education at Musa Iliasu College, Kano.
+
+---
+
+## 📚 Al-Azhar Schools, Kano
+
+**Primary Education**
+
+Where my formal educational journey began.
+
+---
+
+## Beyond the Classroom
+
+My education has increasingly expanded beyond the traditional medical curriculum. I am particularly interested in learning how computational methods can be applied to biological and clinical problems.
+
+I am currently building practical experience through independent projects, bioinformatics training and computational research.

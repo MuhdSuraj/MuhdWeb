@@ -1,0 +1,35 @@
+---
+title: "Research"
+---
+
+# Research
+
+## Research Interests
+
+I am interested in the intersection of **medicine, biology and computation**, particularly in areas where computational methods can help answer biomedical and clinical questions.
+
+### 🧬 Genomics & Bioinformatics
+
+Exploring genomic and biological sequence data to understand variation, conservation and biological function.
+
+### 💻 Computational Biology
+
+Using programming, data analysis and computational methods to investigate biological systems.
+
+### 🧪 Biomedical Research
+
+Interested in research connecting molecular biology, disease mechanisms and clinical medicine.
+
+### 🌍 Public Health
+
+Interested in how computational approaches can contribute to population-level health research.
+
+---
+
+## Current Direction
+
+My current learning is focused on building a strong foundation in **Python, Linux, Bash, Git, bioinformatics and data analysis**.
+
+Through practical projects, I am working toward developing the ability to independently take a biological question, obtain and analyse relevant data, and communicate the results clearly.
+
+---

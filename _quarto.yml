@@ -1,14 +1,22 @@
 project:
   type: website
-  output-dir: docs 
+  output-dir: docs
 
 website:
-  title: "cbr-project-website"
+  title: "Muhammad Suraj Salihu"
   navbar:
+    background: light
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: education.qmd
+        text: Education
+      - href: projects.qmd
+        text: Projects
+      - href: research.qmd
+        text: Research
 
 format:
   html:
@@ -17,6 +25,4 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
+    smooth-scroll: true

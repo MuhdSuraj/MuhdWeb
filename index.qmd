@@ -7,31 +7,96 @@ subtitle: "Medical Student • Bioinformatics • Computational Biology"
 
 ![Muhammad](images/Bioinf.jpg){.profile-photo}
 
-#
+# Muhammad Suraj Salihu
 
-### Exploring the intersection of medicine, bioinformatics and computational biology.
+### Medical Student • Bioinformatics • Computational Biology
 
-I am building my skills in **bioinformatics, Python, Linux, Bash scripting, data analysis and reproducible computational workflows**.
+I am a medical student at **Bayero University Kano** developing skills in bioinformatics, computational biology, programming and data analysis.
 
-My goal is to use computational approaches to investigate biological and clinical questions.
+I am interested in using computational approaches to investigate biological and clinical questions at the intersection of **medicine and computational research**.
 
 [Explore My Projects](projects.qmd){.btn .btn-primary}
-
 [View My GitHub](https://github.com/MuhdSuraj){.btn .btn-outline-secondary}
-
 [Connect on LinkedIn](https://linkedin.com/in/muhammad-suraj-845b51184){.btn .btn-outline-secondary}
 
 :::
 
 ---
 
-## Welcome
+## About Me
 
-This website is my **bioinformatics portfolio and learning journal**.
+My academic journey began at **Al-Azhar Schools, Kano**, continued through **Musa Iliasu College, Kano**, and led me to **Bayero University Kano**, where I am pursuing an MBBS degree.
 
-I am documenting the projects I build, the tools I learn, the problems I encounter and the progress I make along the way.
+Alongside medicine, I am developing practical skills in **bioinformatics, Python, Linux, Bash, Git, data analysis and reproducible computational workflows**.
 
-Rather than allowing a course to end when the lectures finish, I want to continue putting what I learn into practice.
+This website documents my projects, learning and development as I work toward combining **medicine, biology and computation**.
+
+---
+
+## Education
+
+<div class="education-preview">
+
+::: {.education-card}
+### 🎓 Bayero University Kano
+**MBBS — Medicine and Surgery**
+
+Currently pursuing my medical degree while developing interests in bioinformatics and computational biology.
+:::
+
+::: {.education-card}
+### 🏫 Musa Iliasu College, Kano
+**Secondary Education**
+:::
+
+::: {.education-card}
+### 📚 Al-Azhar Schools, Kano
+**Primary Education**
+:::
+
+</div>
+
+[View My Full Education Journey](education.qmd){.btn .btn-outline-primary}
+
+---
+
+## Research Interests
+
+<div class="skills-grid">
+
+::: {.skill-card}
+### 🧬 Genomics & Bioinformatics
+Biological sequences, genomic data and computational approaches to biological questions.
+:::
+
+::: {.skill-card}
+### 💻 Computational Biology
+Using programming and computational methods to investigate biological systems.
+:::
+
+::: {.skill-card}
+### 🧪 Biomedical Research
+Research connecting molecular biology, disease and clinical medicine.
+:::
+
+::: {.skill-card}
+### 🌍 Public Health
+Exploring computational approaches to population-level health research.
+:::
+
+</div>
+
+---
+
+## Featured Project
+
+### FLT3-Conserve
+
+A bioinformatics project exploring sequence conservation across species using Python and biological sequence analysis, with a focus on the **FLT3 gene**.
+
+**Status:** In progress
+
+[View Project](projects.qmd){.btn .btn-primary}
 
 ---
 
@@ -40,68 +105,53 @@ Rather than allowing a course to end when the lectures finish, I want to continu
 <div class="skills-grid">
 
 ::: {.skill-card}
-### 🧬 Bioinformatics
-
-Sequence analysis, biological databases, conservation analysis and computational biology workflows.
+### 🐍 Python
+Programming, data analysis and automation for biological applications.
 :::
 
 ::: {.skill-card}
-###  Python
-
-Python programming for data analysis, automation and bioinformatics.
-:::
-
-::: {.skill-card}
-###  Linux & Bash
-
-Command-line tools, shell scripting and reproducible workflows.
+### 🐧 Linux & Bash
+Command-line tools, shell scripting and computational workflows.
 :::
 
 ::: {.skill-card}
 ### 📊 Data Analysis
-
-Working with biological datasets, visualization and exploratory analysis.
+Exploratory analysis, visualization and biological datasets.
 :::
 
 ::: {.skill-card}
-###  Git & GitHub
+### 🧬 Bioinformatics
+Sequence analysis, biological databases and computational workflows.
+:::
 
-Version control, project organization and collaborative development.
+::: {.skill-card}
+### 🔗 Git & GitHub
+Version control, project organization and reproducible research.
 :::
 
 ::: {.skill-card}
 ### 📖 Quarto
-
-Creating reproducible reports, documentation and computational websites.
+Creating reproducible reports, documentation and research websites.
 :::
 
 </div>
 
 ---
 
-## Featured Project.
-
-### FLT3-Conserve
-
-A bioinformatics project to explore sequence conservation across species using Python and biological sequence analysis, with a focus on the **FLT3 gene**. This is a project-based learning journey, but I exlore my research interest through it.
-
-**Status:** In progress
-
-
-## My Learning Philosophy
+## My Approach
 
 > **Learn it. Build it. Document it. Share it.**
 
-Every new concept becomes more valuable when I actually use it.
+I believe learning becomes more meaningful when knowledge is put into practice.
 
-This website will grow alongside my skills InshaAllah.
+This website is a record of my development as I learn to combine **medicine, biology and computation**.
 
 ---
 
 ## Acknowledgements
 
-I am grateful to the **Centre for Biotechnology Research (CBR), Bayero University Kano**, and the tutors who have encouraged me to keep learning and putting these skills into practice.
+I am grateful to the **Centre for Biotechnology Research (CBR), Bayero University Kano**, and the tutors who have encouraged me to explore bioinformatics and develop my computational skills.
 
-**Alhamdulillah for a beginning as fun as this**
+**Alhamdulillah for a beginning as fun as this.**
 
 *30 August 2026*
