@@ -20,6 +20,20 @@ The project is helping me develop practical skills in sequence analysis, biologi
 
 ---
 
+## 🧬 Alpha-Synuclein (SNCA) Conservation Analysis
+
+**Status: In Progress**
+
+A bioinformatics project investigating conservation of the **SNCA gene** across species — human, mouse, chimpanzee and chicken — in the context of **Parkinson's disease**. Sequences were retrieved from NCBI GenBank and compared through positional alignment at disease-relevant sites.
+
+Positions 30 and 46 were found to be fully conserved across all four species, while position 53 — the site of the well-known A53T Parkinson's mutation in humans — is **not** conserved, with mouse and chicken naturally carrying Threonine there. Rather than force a clean narrative, this result is reported as an open and interesting question.
+
+As an extension, I plan to build a small Python model simulating dopamine depletion as a reduced learning rate in a two-armed bandit task — an illustrative toy model rather than a literal biological simulation.
+
+**Focus:** Bioinformatics • Comparative Genomics • Python • Neurodegeneration
+
+[View on GitHub](https://github.com/MuhdSuraj/alpha-synuclein-bioinformatics){.btn .btn-primary}
+
 ---
 
 ## 🔬 Future Projects

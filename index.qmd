@@ -5,11 +5,7 @@ subtitle: "Medical Student • Bioinformatics • Computational Biology"
 
 ::: {.hero}
 
-![Muhammad](images/Bioinf.jpg){.profile-photo}
-
-# Muhammad Suraj Salihu
-
-### Medical Student • Bioinformatics • Computational Biology
+![Muhammad](images/Muhdu.jpg){.profile-photo}
 
 I am a medical student at **Bayero University Kano** developing skills in bioinformatics, computational biology, programming and data analysis.
 
