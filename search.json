@@ -130,7 +130,7 @@
     "href": "index.html",
     "title": "Muhammad Suraj Salihu",
     "section": "",
-    "text": "Muhammad\n\n\n\n\n\n\nI am a medical student at Bayero University Kano developing skills in bioinformatics, computational biology, programming and data analysis.\nI am interested in using computational approaches to investigate biological and clinical questions at the intersection of medicine and computational research.\nExplore My Projects View My GitHub Connect on LinkedIn"
+    "text": "Muhammad\n\n\nI am a medical student at Bayero University Kano developing skills in bioinformatics, computational biology, programming and data analysis.\nI am interested in using computational approaches to investigate biological and clinical questions at the intersection of medicine and computational research.\nExplore My Projects View My GitHub Connect on LinkedIn"
   },
   {
     "objectID": "index.html#about-me",
@@ -186,7 +186,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "A collection of my bioinformatics, computational biology and programming projects.\n\n\nStatus: In Progress\nA bioinformatics project exploring sequence conservation across species using Python and biological sequence analysis, with a focus on the FLT3 gene. This is the gene that mutates in a significant proportion of acute myeloid leukemia (AML) cases.\nThe project is helping me develop practical skills in sequence analysis, biological databases, Python and reproducible computational workflows.\nFocus: Bioinformatics • Sequence Analysis • Python • Conservation Analysis\nView on GitHub\n\n\n\n\n\nI am currently developing additional projects combining medicine, bioinformatics, genomics and computational biology.\nFuture projects will be documented here with their code, methodology, results and conclusions.\n\n\n\n\n\nDon’t just learn the tool. Use it to answer a question.\n\nMost of the projects I work on will not only help me solve a question, but will also help me develop my computational skills."
+    "text": "A collection of my bioinformatics, computational biology and programming projects.\n\n\nStatus: In Progress\nA bioinformatics project exploring sequence conservation across species using Python and biological sequence analysis, with a focus on the FLT3 gene. This is the gene that mutates in a significant proportion of acute myeloid leukemia (AML) cases.\nThe project is helping me develop practical skills in sequence analysis, biological databases, Python and reproducible computational workflows.\nFocus: Bioinformatics • Sequence Analysis • Python • Conservation Analysis\nView on GitHub\n\n\n\n\nStatus: In Progress\nA bioinformatics project investigating conservation of the SNCA gene across species — human, mouse, chimpanzee and chicken — in the context of Parkinson’s disease. Sequences were retrieved from NCBI GenBank and compared through positional alignment at disease-relevant sites.\nPositions 30 and 46 were found to be fully conserved across all four species, while position 53 — the site of the well-known A53T Parkinson’s mutation in humans — is not conserved, with mouse and chicken naturally carrying Threonine there. Rather than force a clean narrative, this result is reported as an open and interesting question.\nAs an extension, I plan to build a small Python model simulating dopamine depletion as a reduced learning rate in a two-armed bandit task — an illustrative toy model rather than a literal biological simulation.\nFocus: Bioinformatics • Comparative Genomics • Python • Neurodegeneration\nView on GitHub\n\n\n\n\nI am currently developing additional projects combining medicine, bioinformatics, genomics and computational biology.\nFuture projects will be documented here with their code, methodology, results and conclusions.\n\n\n\n\n\nDon’t just learn the tool. Use it to answer a question.\n\nMost of the projects I work on will not only help me solve a question, but will also help me develop my computational skills."
   },
   {
     "objectID": "projects.html#flt3-conserve",
@@ -194,6 +194,13 @@
     "title": "Projects",
     "section": "",
     "text": "Status: In Progress\nA bioinformatics project exploring sequence conservation across species using Python and biological sequence analysis, with a focus on the FLT3 gene. This is the gene that mutates in a significant proportion of acute myeloid leukemia (AML) cases.\nThe project is helping me develop practical skills in sequence analysis, biological databases, Python and reproducible computational workflows.\nFocus: Bioinformatics • Sequence Analysis • Python • Conservation Analysis\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#alpha-synuclein-snca-conservation-analysis",
+    "href": "projects.html#alpha-synuclein-snca-conservation-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Status: In Progress\nA bioinformatics project investigating conservation of the SNCA gene across species — human, mouse, chimpanzee and chicken — in the context of Parkinson’s disease. Sequences were retrieved from NCBI GenBank and compared through positional alignment at disease-relevant sites.\nPositions 30 and 46 were found to be fully conserved across all four species, while position 53 — the site of the well-known A53T Parkinson’s mutation in humans — is not conserved, with mouse and chicken naturally carrying Threonine there. Rather than force a clean narrative, this result is reported as an open and interesting question.\nAs an extension, I plan to build a small Python model simulating dopamine depletion as a reduced learning rate in a two-armed bandit task — an illustrative toy model rather than a literal biological simulation.\nFocus: Bioinformatics • Comparative Genomics • Python • Neurodegeneration\nView on GitHub"
   },
   {
     "objectID": "projects.html#future-projects",
