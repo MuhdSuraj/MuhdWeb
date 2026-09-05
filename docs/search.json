@@ -1,87 +1,24 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "A collection of my bioinformatics, computational biology and programming projects.\n\n\nStatus: In Progress\nA bioinformatics project exploring sequence conservation across species using Python and biological sequence analysis, with a focus on the FLT3 gene. This is the gene that mutates in a significant proportion of acute myeloid leukemia (AML) cases.\nThe project is helping me develop practical skills in sequence analysis, biological databases, Python and reproducible computational workflows.\nFocus: Bioinformatics • Sequence Analysis • Python • Conservation Analysis\nView on GitHub\n\n\n\n\n\nI am currently developing additional projects combining medicine, bioinformatics, genomics and computational biology.\nFuture projects will be documented here with their code, methodology, results and conclusions.\n\n\n\n\n\nDon’t just learn the tool. Use it to answer a question.\n\nMost of the projects I work on will not only help me solve a question, but will also help me develop my computational skills."
+    "text": "I am interested in the intersection of medicine, biology and computation, particularly in areas where computational methods can help answer biomedical and clinical questions.\n\n\nExploring genomic and biological sequence data to understand variation, conservation and biological function.\n\n\n\nUsing programming, data analysis and computational methods to investigate biological systems.\n\n\n\nInterested in research connecting molecular biology, disease mechanisms and clinical medicine.\n\n\n\nInterested in how computational approaches can contribute to population-level health research.\n\n\n\n\n\nMy current learning is focused on building a strong foundation in Python, Linux, Bash, Git, bioinformatics and data analysis.\nThrough practical projects, I am working toward developing the ability to independently take a biological question, obtain and analyse relevant data, and communicate the results clearly."
   },
   {
-    "objectID": "projects.html#flt3-conserve",
-    "href": "projects.html#flt3-conserve",
-    "title": "Projects",
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
     "section": "",
-    "text": "Status: In Progress\nA bioinformatics project exploring sequence conservation across species using Python and biological sequence analysis, with a focus on the FLT3 gene. This is the gene that mutates in a significant proportion of acute myeloid leukemia (AML) cases.\nThe project is helping me develop practical skills in sequence analysis, biological databases, Python and reproducible computational workflows.\nFocus: Bioinformatics • Sequence Analysis • Python • Conservation Analysis\nView on GitHub"
+    "text": "I am interested in the intersection of medicine, biology and computation, particularly in areas where computational methods can help answer biomedical and clinical questions.\n\n\nExploring genomic and biological sequence data to understand variation, conservation and biological function.\n\n\n\nUsing programming, data analysis and computational methods to investigate biological systems.\n\n\n\nInterested in research connecting molecular biology, disease mechanisms and clinical medicine.\n\n\n\nInterested in how computational approaches can contribute to population-level health research."
   },
   {
-    "objectID": "projects.html#more-projects-coming",
-    "href": "projects.html#more-projects-coming",
-    "title": "Projects",
+    "objectID": "research.html#current-direction",
+    "href": "research.html#current-direction",
+    "title": "Research",
     "section": "",
-    "text": "As I continue learning bioinformatics, I will add more projects involving:\n\nGenomic data analysis\nSequence analysis\nPhylogenetics\nData visualization\nBash/Linux workflows\nReproducible bioinformatics pipelines\nMachine learning for biological data"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Muhammad Suraj Salihu",
-    "section": "",
-    "text": "Muhammad\n\n\n\n\n\n\nI am a medical student at Bayero University Kano developing skills in bioinformatics, computational biology, programming and data analysis.\nI am interested in using computational approaches to investigate biological and clinical questions at the intersection of medicine and computational research.\nExplore My Projects View My GitHub Connect on LinkedIn"
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Muhammad Suraj Salihu",
-    "section": "Welcome",
-    "text": "Welcome\nThis website is my bioinformatics portfolio and learning journal.\nI am documenting the projects I build, the tools I learn, the problems I encounter and the progress I make along the way.\nRather than allowing a course to end when the lectures finish, I want to continue putting what I learn into practice."
-  },
-  {
-    "objectID": "index.html#what-im-learning",
-    "href": "index.html#what-im-learning",
-    "title": "Muhammad Suraj Salihu",
-    "section": "What I’m Learning",
-    "text": "What I’m Learning\n\n\n🐍 Python\nProgramming, data analysis and automation for biological applications.\n\n\n🐧 Linux & Bash\nCommand-line tools, shell scripting and computational workflows.\n\n\n📊 Data Analysis\nExploratory analysis, visualization and biological datasets.\n\n\n🧬 Bioinformatics\nSequence analysis, biological databases and computational workflows.\n\n\n🔗 Git & GitHub\nVersion control, project organization and reproducible research.\n\n\n📖 Quarto\nCreating reproducible reports, documentation and research websites."
-  },
-  {
-    "objectID": "index.html#featured-project.",
-    "href": "index.html#featured-project.",
-    "title": "Muhammad Suraj Salihu",
-    "section": "Featured Project.",
-    "text": "Featured Project.\n\nFLT3-Conserve\nA bioinformatics project to explore sequence conservation across species using Python and biological sequence analysis, with a focus on the FLT3 gene. This is a project-based learning journey, but I exlore my research interest through it.\nStatus: In progress"
-  },
-  {
-    "objectID": "index.html#my-learning-philosophy",
-    "href": "index.html#my-learning-philosophy",
-    "title": "Muhammad Suraj Salihu",
-    "section": "My Learning Philosophy",
-    "text": "My Learning Philosophy\n\nLearn it. Build it. Document it. Share it.\n\nEvery new concept becomes more valuable when I actually use it.\nThis website will grow alongside my skills InshaAllah."
-  },
-  {
-    "objectID": "index.html#acknowledgements",
-    "href": "index.html#acknowledgements",
-    "title": "Muhammad Suraj Salihu",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nI am grateful to the Centre for Biotechnology Research (CBR), Bayero University Kano, and the tutors who have encouraged me to explore bioinformatics and develop my computational skills.\nAlhamdulillah for a beginning as fun as this.\n30 August 2026"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Muhammad Suraj Salihu\n\n\nI am a final year medical student developing an interest in bioinformatics, computational biology and data-driven approaches to medicine.\nMy background in medicine and love for computers right before med school took over has made me interested in questions that sit at the intersection of biology, disease and computation.\n\n\nFirst my fascination by just how much a computer can do plus my love for medicine.\nMy current focus is on building a strong foundation in:\n\nPython\nLinux\nBash scripting\nSequence analysis\nData visualization\n\n\n\n\nI am still very early in this journey, so this website is intentionally also a record of my learning process.\nI want to document not only successful projects, but also the problems I encounter and how I solve them. And the ones that straight up defeated me, of course\n\nLast updated: August 2026"
-  },
-  {
-    "objectID": "about.html#why-bioinformatics",
-    "href": "about.html#why-bioinformatics",
-    "title": "About Me",
-    "section": "",
-    "text": "First my fascination by just how much a computer can do plus my love for medicine.\nMy current focus is on building a strong foundation in:\n\nPython\nLinux\nBash scripting\nSequence analysis\nData visualization"
-  },
-  {
-    "objectID": "about.html#my-approach",
-    "href": "about.html#my-approach",
-    "title": "About Me",
-    "section": "",
-    "text": "I am still very early in this journey, so this website is intentionally also a record of my learning process.\nI want to document not only successful projects, but also the problems I encounter and how I solve them. And the ones that straight up defeated me, of course\n\nLast updated: August 2026"
+    "text": "My current learning is focused on building a strong foundation in Python, Linux, Bash, Git, bioinformatics and data analysis.\nThrough practical projects, I am working toward developing the ability to independently take a biological question, obtain and analyse relevant data, and communicate the results clearly."
   },
   {
     "objectID": "learning.html",
@@ -133,62 +70,6 @@
     "text": "Learn → Build → make mistakes → Document → Share → Improve"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "I am interested in the intersection of medicine, biology and computation, particularly in areas where computational methods can help answer biomedical and clinical questions.\n\n\nExploring genomic and biological sequence data to understand variation, conservation and biological function.\n\n\n\nUsing programming, data analysis and computational methods to investigate biological systems.\n\n\n\nInterested in research connecting molecular biology, disease mechanisms and clinical medicine.\n\n\n\nInterested in how computational approaches can contribute to population-level health research.\n\n\n\n\n\nMy current learning is focused on building a strong foundation in Python, Linux, Bash, Git, bioinformatics and data analysis.\nThrough practical projects, I am working toward developing the ability to independently take a biological question, obtain and analyse relevant data, and communicate the results clearly."
-  },
-  {
-    "objectID": "research.html#research-interests",
-    "href": "research.html#research-interests",
-    "title": "Research",
-    "section": "",
-    "text": "I am interested in the intersection of medicine, biology and computation, particularly in areas where computational methods can help answer biomedical and clinical questions.\n\n\nExploring genomic and biological sequence data to understand variation, conservation and biological function.\n\n\n\nUsing programming, data analysis and computational methods to investigate biological systems.\n\n\n\nInterested in research connecting molecular biology, disease mechanisms and clinical medicine.\n\n\n\nInterested in how computational approaches can contribute to population-level health research."
-  },
-  {
-    "objectID": "research.html#current-direction",
-    "href": "research.html#current-direction",
-    "title": "Research",
-    "section": "",
-    "text": "My current learning is focused on building a strong foundation in Python, Linux, Bash, Git, bioinformatics and data analysis.\nThrough practical projects, I am working toward developing the ability to independently take a biological question, obtain and analyse relevant data, and communicate the results clearly."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Muhammad Suraj Salihu",
-    "section": "About Me",
-    "text": "About Me\nMy academic journey began at Al-Azhar Schools, Kano, continued through Musa Iliasu College, Kano, and led me to Bayero University Kano, where I am pursuing an MBBS degree.\nAlongside medicine, I am developing practical skills in bioinformatics, Python, Linux, Bash, Git, data analysis and reproducible computational workflows.\nThis website documents my projects, learning and development as I work toward combining medicine, biology and computation."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Muhammad Suraj Salihu",
-    "section": "Education",
-    "text": "Education\n\n\n🎓 Bayero University Kano\nMBBS — Medicine and Surgery\nCurrently pursuing my medical degree while developing interests in bioinformatics and computational biology.\n\n\n🏫 Musa Iliasu College, Kano\nSecondary Education\n\n\n📚 Al-Azhar Schools, Kano\nPrimary Education\n\n\nView My Full Education Journey"
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Muhammad Suraj Salihu",
-    "section": "Research Interests",
-    "text": "Research Interests\n\n\n🧬 Genomics & Bioinformatics\nBiological sequences, genomic data and computational approaches to biological questions.\n\n\n💻 Computational Biology\nUsing programming and computational methods to investigate biological systems.\n\n\n🧪 Biomedical Research\nResearch connecting molecular biology, disease and clinical medicine.\n\n\n🌍 Public Health\nExploring computational approaches to population-level health research."
-  },
-  {
-    "objectID": "index.html#featured-project",
-    "href": "index.html#featured-project",
-    "title": "Muhammad Suraj Salihu",
-    "section": "Featured Project",
-    "text": "Featured Project\n\nFLT3-Conserve\nA bioinformatics project exploring sequence conservation across species using Python and biological sequence analysis, with a focus on the FLT3 gene.\nStatus: In progress\nView Project"
-  },
-  {
-    "objectID": "index.html#my-approach",
-    "href": "index.html#my-approach",
-    "title": "Muhammad Suraj Salihu",
-    "section": "My Approach",
-    "text": "My Approach\n\nLearn it. Build it. Document it. Share it.\n\nI believe learning becomes more meaningful when knowledge is put into practice.\nThis website is a record of my development as I learn to combine medicine, biology and computation."
-  },
-  {
     "objectID": "education.html",
     "href": "education.html",
     "title": "Education",
@@ -222,6 +103,97 @@
     "title": "Education",
     "section": "",
     "text": "My education has increasingly expanded beyond the traditional medical curriculum. I am particularly interested in learning how computational methods can be applied to biological and clinical problems.\nI am currently building practical experience through independent projects, bioinformatics training and computational research."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Muhammad Suraj Salihu\n\n\nI am a final year medical student developing an interest in bioinformatics, computational biology and data-driven approaches to medicine.\nMy background in medicine and love for computers right before med school took over has made me interested in questions that sit at the intersection of biology, disease and computation.\n\n\nFirst my fascination by just how much a computer can do plus my love for medicine.\nMy current focus is on building a strong foundation in:\n\nPython\nLinux\nBash scripting\nSequence analysis\nData visualization\n\n\n\n\nI am still very early in this journey, so this website is intentionally also a record of my learning process.\nI want to document not only successful projects, but also the problems I encounter and how I solve them. And the ones that straight up defeated me, of course\n\nLast updated: August 2026"
+  },
+  {
+    "objectID": "about.html#why-bioinformatics",
+    "href": "about.html#why-bioinformatics",
+    "title": "About Me",
+    "section": "",
+    "text": "First my fascination by just how much a computer can do plus my love for medicine.\nMy current focus is on building a strong foundation in:\n\nPython\nLinux\nBash scripting\nSequence analysis\nData visualization"
+  },
+  {
+    "objectID": "about.html#my-approach",
+    "href": "about.html#my-approach",
+    "title": "About Me",
+    "section": "",
+    "text": "I am still very early in this journey, so this website is intentionally also a record of my learning process.\nI want to document not only successful projects, but also the problems I encounter and how I solve them. And the ones that straight up defeated me, of course\n\nLast updated: August 2026"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Muhammad Suraj Salihu",
+    "section": "",
+    "text": "Muhammad\n\n\n\n\n\n\nI am a medical student at Bayero University Kano developing skills in bioinformatics, computational biology, programming and data analysis.\nI am interested in using computational approaches to investigate biological and clinical questions at the intersection of medicine and computational research.\nExplore My Projects View My GitHub Connect on LinkedIn"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Muhammad Suraj Salihu",
+    "section": "About Me",
+    "text": "About Me\nMy academic journey began at Al-Azhar Schools, Kano, continued through Musa Iliasu College, Kano, and led me to Bayero University Kano, where I am pursuing an MBBS degree.\nAlongside medicine, I am developing practical skills in bioinformatics, Python, Linux, Bash, Git, data analysis and reproducible computational workflows.\nThis website documents my projects, learning and development as I work toward combining medicine, biology and computation."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Muhammad Suraj Salihu",
+    "section": "Education",
+    "text": "Education\n\n\n🎓 Bayero University Kano\nMBBS — Medicine and Surgery\nCurrently pursuing my medical degree while developing interests in bioinformatics and computational biology.\n\n\n🏫 Musa Iliasu College, Kano\nSecondary Education\n\n\n📚 Al-Azhar Schools, Kano\nPrimary Education\n\n\nView My Full Education Journey"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Muhammad Suraj Salihu",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n\n🧬 Genomics & Bioinformatics\nBiological sequences, genomic data and computational approaches to biological questions.\n\n\n💻 Computational Biology\nUsing programming and computational methods to investigate biological systems.\n\n\n🧪 Biomedical Research\nResearch connecting molecular biology, disease and clinical medicine.\n\n\n🌍 Public Health\nExploring computational approaches to population-level health research."
+  },
+  {
+    "objectID": "index.html#featured-project",
+    "href": "index.html#featured-project",
+    "title": "Muhammad Suraj Salihu",
+    "section": "Featured Project",
+    "text": "Featured Project\n\nFLT3-Conserve\nA bioinformatics project exploring sequence conservation across species using Python and biological sequence analysis, with a focus on the FLT3 gene.\nStatus: In progress\nView Project"
+  },
+  {
+    "objectID": "index.html#what-im-learning",
+    "href": "index.html#what-im-learning",
+    "title": "Muhammad Suraj Salihu",
+    "section": "What I’m Learning",
+    "text": "What I’m Learning\n\n\n🐍 Python\nProgramming, data analysis and automation for biological applications.\n\n\n🐧 Linux & Bash\nCommand-line tools, shell scripting and computational workflows.\n\n\n📊 Data Analysis\nExploratory analysis, visualization and biological datasets.\n\n\n🧬 Bioinformatics\nSequence analysis, biological databases and computational workflows.\n\n\n🔗 Git & GitHub\nVersion control, project organization and reproducible research.\n\n\n📖 Quarto\nCreating reproducible reports, documentation and research websites."
+  },
+  {
+    "objectID": "index.html#my-approach",
+    "href": "index.html#my-approach",
+    "title": "Muhammad Suraj Salihu",
+    "section": "My Approach",
+    "text": "My Approach\n\nLearn it. Build it. Document it. Share it.\n\nI believe learning becomes more meaningful when knowledge is put into practice.\nThis website is a record of my development as I learn to combine medicine, biology and computation."
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Muhammad Suraj Salihu",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nI am grateful to the Centre for Biotechnology Research (CBR), Bayero University Kano, and the tutors who have encouraged me to explore bioinformatics and develop my computational skills.\nAlhamdulillah for a beginning as fun as this.\n30 August 2026"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A collection of my bioinformatics, computational biology and programming projects.\n\n\nStatus: In Progress\nA bioinformatics project exploring sequence conservation across species using Python and biological sequence analysis, with a focus on the FLT3 gene. This is the gene that mutates in a significant proportion of acute myeloid leukemia (AML) cases.\nThe project is helping me develop practical skills in sequence analysis, biological databases, Python and reproducible computational workflows.\nFocus: Bioinformatics • Sequence Analysis • Python • Conservation Analysis\nView on GitHub\n\n\n\n\n\nI am currently developing additional projects combining medicine, bioinformatics, genomics and computational biology.\nFuture projects will be documented here with their code, methodology, results and conclusions.\n\n\n\n\n\nDon’t just learn the tool. Use it to answer a question.\n\nMost of the projects I work on will not only help me solve a question, but will also help me develop my computational skills."
+  },
+  {
+    "objectID": "projects.html#flt3-conserve",
+    "href": "projects.html#flt3-conserve",
+    "title": "Projects",
+    "section": "",
+    "text": "Status: In Progress\nA bioinformatics project exploring sequence conservation across species using Python and biological sequence analysis, with a focus on the FLT3 gene. This is the gene that mutates in a significant proportion of acute myeloid leukemia (AML) cases.\nThe project is helping me develop practical skills in sequence analysis, biological databases, Python and reproducible computational workflows.\nFocus: Bioinformatics • Sequence Analysis • Python • Conservation Analysis\nView on GitHub"
   },
   {
     "objectID": "projects.html#future-projects",
